@@ -1,13 +1,13 @@
 //
-//  AurielUITests.swift
-//  AurielUITests
+//  AurielXCodeUITests.swift
+//  AurielXCodeUITests
 //
 //  Created by Hamidat Bello on 2024-11-08.
 //
 
 import XCTest
 
-final class AurielUITests: XCTestCase {
+final class AurielXCodeUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

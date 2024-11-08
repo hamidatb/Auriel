@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Auriel
+//  AurielXCode
 //
 //  Created by Hamidat Bello on 2024-11-08.
 //

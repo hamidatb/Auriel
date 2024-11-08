@@ -1,13 +1,13 @@
 //
-//  AurielUITestsLaunchTests.swift
-//  AurielUITests
+//  AurielXCodeUITestsLaunchTests.swift
+//  AurielXCodeUITests
 //
 //  Created by Hamidat Bello on 2024-11-08.
 //
 
 import XCTest
 
-final class AurielUITestsLaunchTests: XCTestCase {
+final class AurielXCodeUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

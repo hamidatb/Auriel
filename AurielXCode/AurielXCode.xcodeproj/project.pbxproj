@@ -7,61 +7,61 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		332E0A9B2CDEB45300B2B802 /* AurielApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 332E0A9A2CDEB45300B2B802 /* AurielApp.swift */; };
-		332E0A9D2CDEB45300B2B802 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 332E0A9C2CDEB45300B2B802 /* ContentView.swift */; };
-		332E0A9F2CDEB45600B2B802 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 332E0A9E2CDEB45600B2B802 /* Assets.xcassets */; };
-		332E0AA22CDEB45600B2B802 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 332E0AA12CDEB45600B2B802 /* Preview Assets.xcassets */; };
-		332E0AAC2CDEB45600B2B802 /* AurielTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 332E0AAB2CDEB45600B2B802 /* AurielTests.swift */; };
-		332E0AB62CDEB45600B2B802 /* AurielUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 332E0AB52CDEB45600B2B802 /* AurielUITests.swift */; };
-		332E0AB82CDEB45600B2B802 /* AurielUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 332E0AB72CDEB45600B2B802 /* AurielUITestsLaunchTests.swift */; };
+		332E0AD12CDEB8A800B2B802 /* AurielXCodeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 332E0AD02CDEB8A800B2B802 /* AurielXCodeApp.swift */; };
+		332E0AD32CDEB8A800B2B802 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 332E0AD22CDEB8A800B2B802 /* ContentView.swift */; };
+		332E0AD52CDEB8AB00B2B802 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 332E0AD42CDEB8AB00B2B802 /* Assets.xcassets */; };
+		332E0AD82CDEB8AB00B2B802 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 332E0AD72CDEB8AB00B2B802 /* Preview Assets.xcassets */; };
+		332E0AE22CDEB8AB00B2B802 /* AurielXCodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 332E0AE12CDEB8AB00B2B802 /* AurielXCodeTests.swift */; };
+		332E0AEC2CDEB8AB00B2B802 /* AurielXCodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 332E0AEB2CDEB8AB00B2B802 /* AurielXCodeUITests.swift */; };
+		332E0AEE2CDEB8AB00B2B802 /* AurielXCodeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 332E0AED2CDEB8AB00B2B802 /* AurielXCodeUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		332E0AA82CDEB45600B2B802 /* PBXContainerItemProxy */ = {
+		332E0ADE2CDEB8AB00B2B802 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 332E0A8F2CDEB45300B2B802 /* Project object */;
+			containerPortal = 332E0AC52CDEB8A800B2B802 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 332E0A962CDEB45300B2B802;
-			remoteInfo = Auriel;
+			remoteGlobalIDString = 332E0ACC2CDEB8A800B2B802;
+			remoteInfo = AurielXCode;
 		};
-		332E0AB22CDEB45600B2B802 /* PBXContainerItemProxy */ = {
+		332E0AE82CDEB8AB00B2B802 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 332E0A8F2CDEB45300B2B802 /* Project object */;
+			containerPortal = 332E0AC52CDEB8A800B2B802 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 332E0A962CDEB45300B2B802;
-			remoteInfo = Auriel;
+			remoteGlobalIDString = 332E0ACC2CDEB8A800B2B802;
+			remoteInfo = AurielXCode;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		332E0A972CDEB45300B2B802 /* Auriel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Auriel.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		332E0A9A2CDEB45300B2B802 /* AurielApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AurielApp.swift; sourceTree = "<group>"; };
-		332E0A9C2CDEB45300B2B802 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		332E0A9E2CDEB45600B2B802 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		332E0AA12CDEB45600B2B802 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		332E0AA72CDEB45600B2B802 /* AurielTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AurielTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		332E0AAB2CDEB45600B2B802 /* AurielTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AurielTests.swift; sourceTree = "<group>"; };
-		332E0AB12CDEB45600B2B802 /* AurielUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AurielUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		332E0AB52CDEB45600B2B802 /* AurielUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AurielUITests.swift; sourceTree = "<group>"; };
-		332E0AB72CDEB45600B2B802 /* AurielUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AurielUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		332E0ACD2CDEB8A800B2B802 /* AurielXCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AurielXCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		332E0AD02CDEB8A800B2B802 /* AurielXCodeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AurielXCodeApp.swift; sourceTree = "<group>"; };
+		332E0AD22CDEB8A800B2B802 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		332E0AD42CDEB8AB00B2B802 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		332E0AD72CDEB8AB00B2B802 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		332E0ADD2CDEB8AB00B2B802 /* AurielXCodeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AurielXCodeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		332E0AE12CDEB8AB00B2B802 /* AurielXCodeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AurielXCodeTests.swift; sourceTree = "<group>"; };
+		332E0AE72CDEB8AB00B2B802 /* AurielXCodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AurielXCodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		332E0AEB2CDEB8AB00B2B802 /* AurielXCodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AurielXCodeUITests.swift; sourceTree = "<group>"; };
+		332E0AED2CDEB8AB00B2B802 /* AurielXCodeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AurielXCodeUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		332E0A942CDEB45300B2B802 /* Frameworks */ = {
+		332E0ACA2CDEB8A800B2B802 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		332E0AA42CDEB45600B2B802 /* Frameworks */ = {
+		332E0ADA2CDEB8AB00B2B802 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		332E0AAE2CDEB45600B2B802 /* Frameworks */ = {
+		332E0AE42CDEB8AB00B2B802 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -71,142 +71,142 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		332E0A8E2CDEB45300B2B802 = {
+		332E0AC42CDEB8A800B2B802 = {
 			isa = PBXGroup;
 			children = (
-				332E0A992CDEB45300B2B802 /* Auriel */,
-				332E0AAA2CDEB45600B2B802 /* AurielTests */,
-				332E0AB42CDEB45600B2B802 /* AurielUITests */,
-				332E0A982CDEB45300B2B802 /* Products */,
+				332E0ACF2CDEB8A800B2B802 /* AurielXCode */,
+				332E0AE02CDEB8AB00B2B802 /* AurielXCodeTests */,
+				332E0AEA2CDEB8AB00B2B802 /* AurielXCodeUITests */,
+				332E0ACE2CDEB8A800B2B802 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		332E0A982CDEB45300B2B802 /* Products */ = {
+		332E0ACE2CDEB8A800B2B802 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				332E0A972CDEB45300B2B802 /* Auriel.app */,
-				332E0AA72CDEB45600B2B802 /* AurielTests.xctest */,
-				332E0AB12CDEB45600B2B802 /* AurielUITests.xctest */,
+				332E0ACD2CDEB8A800B2B802 /* AurielXCode.app */,
+				332E0ADD2CDEB8AB00B2B802 /* AurielXCodeTests.xctest */,
+				332E0AE72CDEB8AB00B2B802 /* AurielXCodeUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		332E0A992CDEB45300B2B802 /* Auriel */ = {
+		332E0ACF2CDEB8A800B2B802 /* AurielXCode */ = {
 			isa = PBXGroup;
 			children = (
-				332E0A9A2CDEB45300B2B802 /* AurielApp.swift */,
-				332E0A9C2CDEB45300B2B802 /* ContentView.swift */,
-				332E0A9E2CDEB45600B2B802 /* Assets.xcassets */,
-				332E0AA02CDEB45600B2B802 /* Preview Content */,
+				332E0AD02CDEB8A800B2B802 /* AurielXCodeApp.swift */,
+				332E0AD22CDEB8A800B2B802 /* ContentView.swift */,
+				332E0AD42CDEB8AB00B2B802 /* Assets.xcassets */,
+				332E0AD62CDEB8AB00B2B802 /* Preview Content */,
 			);
-			path = Auriel;
+			path = AurielXCode;
 			sourceTree = "<group>";
 		};
-		332E0AA02CDEB45600B2B802 /* Preview Content */ = {
+		332E0AD62CDEB8AB00B2B802 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				332E0AA12CDEB45600B2B802 /* Preview Assets.xcassets */,
+				332E0AD72CDEB8AB00B2B802 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		332E0AAA2CDEB45600B2B802 /* AurielTests */ = {
+		332E0AE02CDEB8AB00B2B802 /* AurielXCodeTests */ = {
 			isa = PBXGroup;
 			children = (
-				332E0AAB2CDEB45600B2B802 /* AurielTests.swift */,
+				332E0AE12CDEB8AB00B2B802 /* AurielXCodeTests.swift */,
 			);
-			path = AurielTests;
+			path = AurielXCodeTests;
 			sourceTree = "<group>";
 		};
-		332E0AB42CDEB45600B2B802 /* AurielUITests */ = {
+		332E0AEA2CDEB8AB00B2B802 /* AurielXCodeUITests */ = {
 			isa = PBXGroup;
 			children = (
-				332E0AB52CDEB45600B2B802 /* AurielUITests.swift */,
-				332E0AB72CDEB45600B2B802 /* AurielUITestsLaunchTests.swift */,
+				332E0AEB2CDEB8AB00B2B802 /* AurielXCodeUITests.swift */,
+				332E0AED2CDEB8AB00B2B802 /* AurielXCodeUITestsLaunchTests.swift */,
 			);
-			path = AurielUITests;
+			path = AurielXCodeUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		332E0A962CDEB45300B2B802 /* Auriel */ = {
+		332E0ACC2CDEB8A800B2B802 /* AurielXCode */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 332E0ABB2CDEB45600B2B802 /* Build configuration list for PBXNativeTarget "Auriel" */;
+			buildConfigurationList = 332E0AF12CDEB8AB00B2B802 /* Build configuration list for PBXNativeTarget "AurielXCode" */;
 			buildPhases = (
-				332E0A932CDEB45300B2B802 /* Sources */,
-				332E0A942CDEB45300B2B802 /* Frameworks */,
-				332E0A952CDEB45300B2B802 /* Resources */,
+				332E0AC92CDEB8A800B2B802 /* Sources */,
+				332E0ACA2CDEB8A800B2B802 /* Frameworks */,
+				332E0ACB2CDEB8A800B2B802 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Auriel;
-			productName = Auriel;
-			productReference = 332E0A972CDEB45300B2B802 /* Auriel.app */;
+			name = AurielXCode;
+			productName = AurielXCode;
+			productReference = 332E0ACD2CDEB8A800B2B802 /* AurielXCode.app */;
 			productType = "com.apple.product-type.application";
 		};
-		332E0AA62CDEB45600B2B802 /* AurielTests */ = {
+		332E0ADC2CDEB8AB00B2B802 /* AurielXCodeTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 332E0ABE2CDEB45600B2B802 /* Build configuration list for PBXNativeTarget "AurielTests" */;
+			buildConfigurationList = 332E0AF42CDEB8AB00B2B802 /* Build configuration list for PBXNativeTarget "AurielXCodeTests" */;
 			buildPhases = (
-				332E0AA32CDEB45600B2B802 /* Sources */,
-				332E0AA42CDEB45600B2B802 /* Frameworks */,
-				332E0AA52CDEB45600B2B802 /* Resources */,
+				332E0AD92CDEB8AB00B2B802 /* Sources */,
+				332E0ADA2CDEB8AB00B2B802 /* Frameworks */,
+				332E0ADB2CDEB8AB00B2B802 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				332E0AA92CDEB45600B2B802 /* PBXTargetDependency */,
+				332E0ADF2CDEB8AB00B2B802 /* PBXTargetDependency */,
 			);
-			name = AurielTests;
-			productName = AurielTests;
-			productReference = 332E0AA72CDEB45600B2B802 /* AurielTests.xctest */;
+			name = AurielXCodeTests;
+			productName = AurielXCodeTests;
+			productReference = 332E0ADD2CDEB8AB00B2B802 /* AurielXCodeTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		332E0AB02CDEB45600B2B802 /* AurielUITests */ = {
+		332E0AE62CDEB8AB00B2B802 /* AurielXCodeUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 332E0AC12CDEB45600B2B802 /* Build configuration list for PBXNativeTarget "AurielUITests" */;
+			buildConfigurationList = 332E0AF72CDEB8AB00B2B802 /* Build configuration list for PBXNativeTarget "AurielXCodeUITests" */;
 			buildPhases = (
-				332E0AAD2CDEB45600B2B802 /* Sources */,
-				332E0AAE2CDEB45600B2B802 /* Frameworks */,
-				332E0AAF2CDEB45600B2B802 /* Resources */,
+				332E0AE32CDEB8AB00B2B802 /* Sources */,
+				332E0AE42CDEB8AB00B2B802 /* Frameworks */,
+				332E0AE52CDEB8AB00B2B802 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				332E0AB32CDEB45600B2B802 /* PBXTargetDependency */,
+				332E0AE92CDEB8AB00B2B802 /* PBXTargetDependency */,
 			);
-			name = AurielUITests;
-			productName = AurielUITests;
-			productReference = 332E0AB12CDEB45600B2B802 /* AurielUITests.xctest */;
+			name = AurielXCodeUITests;
+			productName = AurielXCodeUITests;
+			productReference = 332E0AE72CDEB8AB00B2B802 /* AurielXCodeUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		332E0A8F2CDEB45300B2B802 /* Project object */ = {
+		332E0AC52CDEB8A800B2B802 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1540;
 				LastUpgradeCheck = 1540;
 				TargetAttributes = {
-					332E0A962CDEB45300B2B802 = {
+					332E0ACC2CDEB8A800B2B802 = {
 						CreatedOnToolsVersion = 15.4;
 					};
-					332E0AA62CDEB45600B2B802 = {
+					332E0ADC2CDEB8AB00B2B802 = {
 						CreatedOnToolsVersion = 15.4;
-						TestTargetID = 332E0A962CDEB45300B2B802;
+						TestTargetID = 332E0ACC2CDEB8A800B2B802;
 					};
-					332E0AB02CDEB45600B2B802 = {
+					332E0AE62CDEB8AB00B2B802 = {
 						CreatedOnToolsVersion = 15.4;
-						TestTargetID = 332E0A962CDEB45300B2B802;
+						TestTargetID = 332E0ACC2CDEB8A800B2B802;
 					};
 				};
 			};
-			buildConfigurationList = 332E0A922CDEB45300B2B802 /* Build configuration list for PBXProject "Auriel" */;
+			buildConfigurationList = 332E0AC82CDEB8A800B2B802 /* Build configuration list for PBXProject "AurielXCode" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -214,36 +214,36 @@
 				en,
 				Base,
 			);
-			mainGroup = 332E0A8E2CDEB45300B2B802;
-			productRefGroup = 332E0A982CDEB45300B2B802 /* Products */;
+			mainGroup = 332E0AC42CDEB8A800B2B802;
+			productRefGroup = 332E0ACE2CDEB8A800B2B802 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				332E0A962CDEB45300B2B802 /* Auriel */,
-				332E0AA62CDEB45600B2B802 /* AurielTests */,
-				332E0AB02CDEB45600B2B802 /* AurielUITests */,
+				332E0ACC2CDEB8A800B2B802 /* AurielXCode */,
+				332E0ADC2CDEB8AB00B2B802 /* AurielXCodeTests */,
+				332E0AE62CDEB8AB00B2B802 /* AurielXCodeUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		332E0A952CDEB45300B2B802 /* Resources */ = {
+		332E0ACB2CDEB8A800B2B802 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				332E0AA22CDEB45600B2B802 /* Preview Assets.xcassets in Resources */,
-				332E0A9F2CDEB45600B2B802 /* Assets.xcassets in Resources */,
+				332E0AD82CDEB8AB00B2B802 /* Preview Assets.xcassets in Resources */,
+				332E0AD52CDEB8AB00B2B802 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		332E0AA52CDEB45600B2B802 /* Resources */ = {
+		332E0ADB2CDEB8AB00B2B802 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		332E0AAF2CDEB45600B2B802 /* Resources */ = {
+		332E0AE52CDEB8AB00B2B802 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -253,49 +253,49 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		332E0A932CDEB45300B2B802 /* Sources */ = {
+		332E0AC92CDEB8A800B2B802 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				332E0A9D2CDEB45300B2B802 /* ContentView.swift in Sources */,
-				332E0A9B2CDEB45300B2B802 /* AurielApp.swift in Sources */,
+				332E0AD32CDEB8A800B2B802 /* ContentView.swift in Sources */,
+				332E0AD12CDEB8A800B2B802 /* AurielXCodeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		332E0AA32CDEB45600B2B802 /* Sources */ = {
+		332E0AD92CDEB8AB00B2B802 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				332E0AAC2CDEB45600B2B802 /* AurielTests.swift in Sources */,
+				332E0AE22CDEB8AB00B2B802 /* AurielXCodeTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		332E0AAD2CDEB45600B2B802 /* Sources */ = {
+		332E0AE32CDEB8AB00B2B802 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				332E0AB82CDEB45600B2B802 /* AurielUITestsLaunchTests.swift in Sources */,
-				332E0AB62CDEB45600B2B802 /* AurielUITests.swift in Sources */,
+				332E0AEE2CDEB8AB00B2B802 /* AurielXCodeUITestsLaunchTests.swift in Sources */,
+				332E0AEC2CDEB8AB00B2B802 /* AurielXCodeUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		332E0AA92CDEB45600B2B802 /* PBXTargetDependency */ = {
+		332E0ADF2CDEB8AB00B2B802 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 332E0A962CDEB45300B2B802 /* Auriel */;
-			targetProxy = 332E0AA82CDEB45600B2B802 /* PBXContainerItemProxy */;
+			target = 332E0ACC2CDEB8A800B2B802 /* AurielXCode */;
+			targetProxy = 332E0ADE2CDEB8AB00B2B802 /* PBXContainerItemProxy */;
 		};
-		332E0AB32CDEB45600B2B802 /* PBXTargetDependency */ = {
+		332E0AE92CDEB8AB00B2B802 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 332E0A962CDEB45300B2B802 /* Auriel */;
-			targetProxy = 332E0AB22CDEB45600B2B802 /* PBXContainerItemProxy */;
+			target = 332E0ACC2CDEB8A800B2B802 /* AurielXCode */;
+			targetProxy = 332E0AE82CDEB8AB00B2B802 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		332E0AB92CDEB45600B2B802 /* Debug */ = {
+		332E0AEF2CDEB8AB00B2B802 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -358,7 +358,7 @@
 			};
 			name = Debug;
 		};
-		332E0ABA2CDEB45600B2B802 /* Release */ = {
+		332E0AF02CDEB8AB00B2B802 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -414,14 +414,14 @@
 			};
 			name = Release;
 		};
-		332E0ABC2CDEB45600B2B802 /* Debug */ = {
+		332E0AF22CDEB8AB00B2B802 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Auriel/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"AurielXCode/Preview Content\"";
 				DEVELOPMENT_TEAM = 79P5AVQ24H;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -435,7 +435,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.hamidatb.Auriel;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hamidatb.AurielXCode;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -443,14 +443,14 @@
 			};
 			name = Debug;
 		};
-		332E0ABD2CDEB45600B2B802 /* Release */ = {
+		332E0AF32CDEB8AB00B2B802 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Auriel/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"AurielXCode/Preview Content\"";
 				DEVELOPMENT_TEAM = 79P5AVQ24H;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -464,7 +464,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.hamidatb.Auriel;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hamidatb.AurielXCode;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -472,7 +472,7 @@
 			};
 			name = Release;
 		};
-		332E0ABF2CDEB45600B2B802 /* Debug */ = {
+		332E0AF52CDEB8AB00B2B802 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -483,16 +483,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.hamidatb.AurielTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hamidatb.AurielXCodeTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Auriel.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Auriel";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AurielXCode.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AurielXCode";
 			};
 			name = Debug;
 		};
-		332E0AC02CDEB45600B2B802 /* Release */ = {
+		332E0AF62CDEB8AB00B2B802 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -503,16 +503,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.hamidatb.AurielTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hamidatb.AurielXCodeTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Auriel.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Auriel";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AurielXCode.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/AurielXCode";
 			};
 			name = Release;
 		};
-		332E0AC22CDEB45600B2B802 /* Debug */ = {
+		332E0AF82CDEB8AB00B2B802 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -521,16 +521,16 @@
 				DEVELOPMENT_TEAM = 79P5AVQ24H;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.hamidatb.AurielUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hamidatb.AurielXCodeUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Auriel;
+				TEST_TARGET_NAME = AurielXCode;
 			};
 			name = Debug;
 		};
-		332E0AC32CDEB45600B2B802 /* Release */ = {
+		332E0AF92CDEB8AB00B2B802 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -539,55 +539,55 @@
 				DEVELOPMENT_TEAM = 79P5AVQ24H;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.hamidatb.AurielUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hamidatb.AurielXCodeUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Auriel;
+				TEST_TARGET_NAME = AurielXCode;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		332E0A922CDEB45300B2B802 /* Build configuration list for PBXProject "Auriel" */ = {
+		332E0AC82CDEB8A800B2B802 /* Build configuration list for PBXProject "AurielXCode" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				332E0AB92CDEB45600B2B802 /* Debug */,
-				332E0ABA2CDEB45600B2B802 /* Release */,
+				332E0AEF2CDEB8AB00B2B802 /* Debug */,
+				332E0AF02CDEB8AB00B2B802 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		332E0ABB2CDEB45600B2B802 /* Build configuration list for PBXNativeTarget "Auriel" */ = {
+		332E0AF12CDEB8AB00B2B802 /* Build configuration list for PBXNativeTarget "AurielXCode" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				332E0ABC2CDEB45600B2B802 /* Debug */,
-				332E0ABD2CDEB45600B2B802 /* Release */,
+				332E0AF22CDEB8AB00B2B802 /* Debug */,
+				332E0AF32CDEB8AB00B2B802 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		332E0ABE2CDEB45600B2B802 /* Build configuration list for PBXNativeTarget "AurielTests" */ = {
+		332E0AF42CDEB8AB00B2B802 /* Build configuration list for PBXNativeTarget "AurielXCodeTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				332E0ABF2CDEB45600B2B802 /* Debug */,
-				332E0AC02CDEB45600B2B802 /* Release */,
+				332E0AF52CDEB8AB00B2B802 /* Debug */,
+				332E0AF62CDEB8AB00B2B802 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		332E0AC12CDEB45600B2B802 /* Build configuration list for PBXNativeTarget "AurielUITests" */ = {
+		332E0AF72CDEB8AB00B2B802 /* Build configuration list for PBXNativeTarget "AurielXCodeUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				332E0AC22CDEB45600B2B802 /* Debug */,
-				332E0AC32CDEB45600B2B802 /* Release */,
+				332E0AF82CDEB8AB00B2B802 /* Debug */,
+				332E0AF92CDEB8AB00B2B802 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 332E0A8F2CDEB45300B2B802 /* Project object */;
+	rootObject = 332E0AC52CDEB8A800B2B802 /* Project object */;
 }
