@@ -140,9 +140,6 @@ Auriel/
 │   ├── user_personas.md         # Descriptions of target user personas and use cases
 │   └── roadmap.md               # Development roadmap and milestones
 │
-├── frontend/                    # Frontend assets (if separate from AurielXcode)
-│   └── ...                      # Additional frontend resources
-│
 ├── .gitignore                   # Git ignore file
 ├── README.md                    # Main README file for the project
 └── LICENSE                      # Project license

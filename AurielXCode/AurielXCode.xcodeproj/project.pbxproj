@@ -14,6 +14,7 @@
 		332E0AE22CDEB8AB00B2B802 /* AurielXCodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 332E0AE12CDEB8AB00B2B802 /* AurielXCodeTests.swift */; };
 		332E0AEC2CDEB8AB00B2B802 /* AurielXCodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 332E0AEB2CDEB8AB00B2B802 /* AurielXCodeUITests.swift */; };
 		332E0AEE2CDEB8AB00B2B802 /* AurielXCodeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 332E0AED2CDEB8AB00B2B802 /* AurielXCodeUITestsLaunchTests.swift */; };
+		332E0AFB2CDEBCBF00B2B802 /* gcal_credentials.plist in Resources */ = {isa = PBXBuildFile; fileRef = 332E0AFA2CDEBCBF00B2B802 /* gcal_credentials.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		332E0AE72CDEB8AB00B2B802 /* AurielXCodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AurielXCodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		332E0AEB2CDEB8AB00B2B802 /* AurielXCodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AurielXCodeUITests.swift; sourceTree = "<group>"; };
 		332E0AED2CDEB8AB00B2B802 /* AurielXCodeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AurielXCodeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		332E0AFA2CDEBCBF00B2B802 /* gcal_credentials.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = gcal_credentials.plist; path = ../backend/permissions/gcal_credentials.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		332E0AC42CDEB8A800B2B802 = {
 			isa = PBXGroup;
 			children = (
+				332E0AFA2CDEBCBF00B2B802 /* gcal_credentials.plist */,
 				332E0ACF2CDEB8A800B2B802 /* AurielXCode */,
 				332E0AE02CDEB8AB00B2B802 /* AurielXCodeTests */,
 				332E0AEA2CDEB8AB00B2B802 /* AurielXCodeUITests */,
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				332E0AD82CDEB8AB00B2B802 /* Preview Assets.xcassets in Resources */,
+				332E0AFB2CDEBCBF00B2B802 /* gcal_credentials.plist in Resources */,
 				332E0AD52CDEB8AB00B2B802 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
