@@ -34,7 +34,6 @@ I'm developing **Auriel** as a comprehensive AI assistant to enhance personal pr
 ## 🚀 Features
 
 ### 🌅 Phase 1 - Minimum Viable Product (MVP)
-Core functionality to help you get started with Auriel:
 
 - **🗓 Class Management**: Integrates with Google Calendar to track your classes.
 - **🔔 Task Reminders**: Sends reminders after each class to add related tasks.
@@ -43,7 +42,6 @@ Core functionality to help you get started with Auriel:
 - **🎨 Customizable Settings**: Set your preferred interaction style and notification options.
 
 ### 🌱 Future Enhancements (Phase 2 & 3)
-Features to deepen Auriel’s utility:
 
 - **📬 Email and Messaging Assistant**: AI-driven email drafts with context.
 - **🍽 Meal Planning**: Personalized meal suggestions based on what’s in your fridge.
@@ -197,7 +195,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## 📢 Feedback & Support
 
-If you have any questions, suggestions, or just want to say hi, feel free to open an issue or reach out to me directly. Auriel is an evolving project, and your insights are invaluable to making it a truly helpful “second brain” for productivity! ❤️
+If you have any questions, or suggestions, or just want to say hi, feel free to open an issue or reach out to me directly. Auriel is an evolving project, and your insights are invaluable to making it a truly helpful “second brain” for productivity! ❤️
 
 ---
 
